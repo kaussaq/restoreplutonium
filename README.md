@@ -6,7 +6,7 @@ You do **not** need to own the MW3 campaign/multiplayer game. You only need the 
 
 ---
 
-## Prerequisites
+## ⚠️ Prerequisites
 
 1. **MW3 Dedicated Server** installed through Steam (Linux / Proton is fine).
 2. **Plutonium** with Game Path set to that Dedicated Server folder, for example:
